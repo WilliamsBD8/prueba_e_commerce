@@ -1,4 +1,4 @@
-package com.example.pedidos.web;
+package com.example.pedidos.infrastructure.web;
 
 import java.util.List;
 

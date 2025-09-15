@@ -1,4 +1,4 @@
-package com.example.pedidos.web;
+package com.example.pedidos.infrastructure.web;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
